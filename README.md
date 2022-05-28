@@ -56,7 +56,9 @@ This research base on the open-loop controlled 3D Printers, introduce the closed
 Keywords: 3D Printers, position feedback, encoders, transmission of data.  
 </p>
 <p align="right">(<a href="#top">back to top</a>)</p>
+	
 ## Project Background
+	
 <p align="left">
 In 2017, we propose the project idea and apply the Shanghai Jiao Tong University annual Innovative Practice Program(IPP). Since we made some innovative breakthrough in the project. We applied the Chinese National Invention Patent in 2017, and our national invention patent application has been authorized by the relevant national departments in 2019. About 3 years later, on Feb. 2022, our patent right has been terminated because we stopped  paying the patent maintenance fee.<br /> 
 On May 2022, we decide to open all the technical details of the national invention patent No.CN107253326A to public by uploading the technical files to Github. <br />
@@ -67,25 +69,27 @@ We believe that, the disclosure of this innovative invention, will make a small 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ### Software Built With
-
+<p align="left">
 * [C++](https://www.cplusplus.com/)
 * [Python](https://www.python.org/)
-
+</p>
 ### Hardware Built With
-
+<p align="left">
 * [Arduino](https://www.arduino.cc/)
 * [RepRap](https://reprap.org/wiki/RepRap)
-
+</p>
 ### Firmware Built With
-
+<p align="left">
 * [Marlin](https://github.com/MarlinFirmware/Marlin)
-
+</p>
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
 <!-- GETTING STARTED -->
 ## Repo Structure
+
+<p align="left">
 <br />
 Repo    |--SJTU Final Thesis of university students' Innovative Practice Program(Chinese).pdf (Final University Thesis of the project)<br />
         |<br />
@@ -105,7 +109,8 @@ Repo    |--SJTU Final Thesis of university students' Innovative Practice Program
 	|--Readme.md (Readme file)<br />
 	|<br />
 	|--LICENSE.txt (License File)<br />
-
+</p>
+	
 ## Subfolder Structure
 
 3D_models_and_Pictures --3D_models_by_Siemens-NX (Folders of 3D models that build from Siemens-NX)
