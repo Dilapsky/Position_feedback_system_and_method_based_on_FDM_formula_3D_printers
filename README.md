@@ -110,7 +110,7 @@ Repo<br />
 |--Sample_Movie_during_trail.mp4 (A video shown the operation of the project, during trail stage)<br />
 |<br />
 |--Patent_Right_Termination_information(Chinese).pdf (Proof of Patent Right Termination)<br />
-|--<br />
+|<br />
 |--marlin_main_complete (Code folder)<br />
 |<br />
 |--3D_models_and_Pictures (Folders of 3D models and Pictures)<br />
