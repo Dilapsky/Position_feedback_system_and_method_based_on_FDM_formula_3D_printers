@@ -117,7 +117,8 @@ Repo<br />
 </p>
 	
 ## Subfolder Structure
-
+<p align="left">
+<br />
 3D_models_and_Pictures<br />
 	|<br />
 	|--3D_models_by_Siemens-NX (Folders of 3D models that build from Siemens-NX)<br />
@@ -127,7 +128,7 @@ Repo<br />
 					  |--Assembly_Drawing (Pictures that show the assemble process of the parts)<br />
 					  |<br />
 					  |--Real_Photos (Photos of the Acture Machine)<br />
-
+</p>
 
 <!-- LICENSE -->
 	
@@ -145,10 +146,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 If any concerns, you can contact Dilapsky Xiahan LI: Dilapsky@gmail.com
 
+* [Email](Dilapsky@gmail.com)
 * [Linkedin](https://www.linkedin.com/in/xiahan-li-913423154/)
-<p align="left">
-Project Link: [https://github.com/Dilapsky/Position_feedback_system_and_method_based_on_FDM_formula_3D_printers](https://github.com/Dilapsky/Position_feedback_system_and_method_based_on_FDM_formula_3D_printers)
-</p>
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
