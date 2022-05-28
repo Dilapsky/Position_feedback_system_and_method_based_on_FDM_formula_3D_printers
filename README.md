@@ -51,18 +51,17 @@
 ## Project Introduction
 
 [![Product Name Screen Shot][product-screenshot]]
-This research base on the open-loop controlled 3D Printers, introduce the closed-loop controlled system and continued printing after outage system into them by adding the position feedback system whose main parts are encoders, thus enhance the accuracy and stability of 3D Printers. This thesis mainly researches from four aspects: Reprap3D Printer, encoder, attempt of transmitting data between circuit boards, control algorithm and achievement, effects of position feedback and effects of continued printing after outage, using the methods of program logic analysis, mechanical structure analysis, transmission of signal analysis and so on, successfully achieve the position feedback system and continued printing after outage system whose main parts are encoders at last, and successfully detects and modified the step out of step motor by using this system, and solve the repeated printing problem in the continued printing problem, enhancing the accuracy and stability of 3D Printers. Comparing with the existing achievement, this position feedback system tremendously reduces the cost of feedback system, and enhances the lifetime of feedback system, thus making the close-loop controlled 3D Printers have a better market prospect.  
+This research base on the open-loop controlled 3D Printers, introduce the closed-loop controlled system and continued printing after outage system into them by adding the position feedback system whose main parts are encoders, thus enhance the accuracy and stability of 3D Printers. This thesis mainly researches from four aspects: Reprap3D Printer, encoder, attempt of transmitting data between circuit boards, control algorithm and achievement, effects of position feedback and effects of continued printing after outage, using the methods of program logic analysis, mechanical structure analysis, transmission of signal analysis and so on, successfully achieve the position feedback system and continued printing after outage system whose main parts are encoders at last, and successfully detects and modified the step out of step motor by using this system, and solve the repeated printing problem in the continued printing problem, enhancing the accuracy and stability of 3D Printers. Comparing with the existing achievement, this position feedback system tremendously reduces the cost of feedback system, and enhances the lifetime of feedback system, thus making the close-loop controlled 3D Printers have a better market prospect.  <br />
 Keywords: 3D Printers, position feedback, encoders, transmission of data.  
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Project Background
-In 2017, we propose the project idea and apply the Shanghai Jiao Tong University annual Innovative Practice Program(IPP). Since we made some innovative breakthrough in the project. We applied the Chinese National Invention Patent in 2017, and our national invention patent application has been authorized by the relevant national departments in 2019. About 3 years later, on Feb. 2022, our patent right has been terminated because we stopped  paying the patent maintenance fee. 
-On May 2022, we decide to open all the technical details of the national invention patent No.CN107253326A to public by uploading the technical files to Github. 
-We believe that, the disclosure of this innovative invention, will make a small contribution to the scientific research field of 3D printing and automatic control all over the world.  
+In 2017, we propose the project idea and apply the Shanghai Jiao Tong University annual Innovative Practice Program(IPP). Since we made some innovative breakthrough in the project. We applied the Chinese National Invention Patent in 2017, and our national invention patent application has been authorized by the relevant national departments in 2019. About 3 years later, on Feb. 2022, our patent right has been terminated because we stopped  paying the patent maintenance fee.<br /> 
+On May 2022, we decide to open all the technical details of the national invention patent No.CN107253326A to public by uploading the technical files to Github. <br />
+We believe that, the disclosure of this innovative invention, will make a small contribution to the scientific research field of 3D printing and automatic control all over the world.  <br />
 
 
-  The outcome of the project has been submitted as a China National Invention Patent application in 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
