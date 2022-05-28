@@ -53,11 +53,11 @@
 
 ## Project Introduction
 
-[![Product Name Screen Shot][product-screenshot]]
+![Product Name Screen Shot][product-screenshot]
 <p align="left">
 This research base on the open-loop controlled 3D Printers, introduce the closed-loop controlled system and continued printing after outage system into them by adding the position feedback system whose main parts are encoders, thus enhance the accuracy and stability of 3D Printers. This project mainly researches from four aspects: Reprap3D Printer, encoder, attempt of transmitting data between circuit boards, control algorithm and achievement, effects of position feedback and effects of continued printing after outage, using the methods of program logic analysis, mechanical structure analysis, transmission of signal analysis and so on, successfully achieve the position feedback system and continued printing after outage system whose main parts are encoders at last, and successfully detects and modified the step out of step motor by using this system, and solve the repeated printing problem in the continued printing problem, enhancing the accuracy and stability of 3D Printers. Comparing with the existing achievement, this position feedback system tremendously reduces the cost of feedback system, and enhances the lifetime of feedback system, thus making the close-loop controlled 3D Printers have a better market prospect.  <br />
 	<br />
-**Keywords**: 3D Printers, position feedback, encoders, transmission of data.  
+**Keywords** : 3D Printers, position feedback, encoders, transmission of data.  
 </p>
 <p align="right">(<a href="#top">back to top</a>)</p>
 	
