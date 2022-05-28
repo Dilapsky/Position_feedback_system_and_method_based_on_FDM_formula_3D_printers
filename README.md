@@ -69,19 +69,23 @@ We believe that, the disclosure of this innovative invention, will make a small 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ### Software Built With
-<p align="left">
+	
+
 * [C++](https://www.cplusplus.com/)
 * [Python](https://www.python.org/)
-</p>
+
+	
 ### Hardware Built With
-<p align="left">
+	
+
 * [Arduino](https://www.arduino.cc/)
 * [RepRap](https://reprap.org/wiki/RepRap)
-</p>
+
+	
 ### Firmware Built With
-<p align="left">
+	
 * [Marlin](https://github.com/MarlinFirmware/Marlin)
-</p>
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
@@ -92,23 +96,23 @@ We believe that, the disclosure of this innovative invention, will make a small 
 <p align="left">
 <br />
 Repo    |--SJTU Final Thesis of university students' Innovative Practice Program(Chinese).pdf (Final University Thesis of the project)<br />
-&nbsp;        |<br />
-&nbsp;	|<br />
-&nbsp;	|--SJTU Final Defense of university students' Innovative Practice Program(English).pdf (Final University Presentation of the project)<br />
-&nbsp;	|<br />
-&nbsp;	|--Sample_Movie_during_trail.MOV (A video shown the operation of the project, during trail stage)<br />
-&nbsp;	|<br />
-&nbsp;	|--Patent_Right_Termination_information(Chinese).pdf (Proof of Patent Right Termination)<br />
-&nbsp;	|<br />
-&nbsp;	|--marlin_main_complete (Code folder)<br />
-&nbsp;	|<br />
-&nbsp;	|--3D_models_and_Pictures (Folders of 3D models and Pictures)<br />
-&nbsp;	|<br />
-&nbsp;	|--images (Folder of Readme images)<br />
-&nbsp;	|<br />
-&nbsp;	|--Readme.md (Readme file)<br />
-&nbsp;	|<br />
-&nbsp;	|--LICENSE.txt (License File)<br />
+<pre>    </pre>|<br />
+<pre>    </pre>|<br />
+<pre>    </pre>|--SJTU Final Defense of university students' Innovative Practice Program(English).pdf (Final University Presentation of the project)<br />
+<pre>    </pre>|<br />
+<pre>    </pre>|--Sample_Movie_during_trail.MOV (A video shown the operation of the project, during trail stage)<br />
+<pre>    </pre>|<br />
+<pre>    </pre>|--Patent_Right_Termination_information(Chinese).pdf (Proof of Patent Right Termination)<br />
+<pre>    </pre>|--<br />
+<pre>    </pre>|--marlin_main_complete (Code folder)<br />
+<pre>    </pre>|<br />
+<pre>    </pre>|--3D_models_and_Pictures (Folders of 3D models and Pictures)<br />
+<pre>    </pre>|<br />
+<pre>    </pre>|--images (Folder of Readme images)
+<pre>    </pre>|<br />
+<pre>    </pre>|--Readme.md (Readme file)<br />
+<pre>    </pre>|<br />
+<pre>    </pre>|--LICENSE.txt (License File)<br />
 </p>
 	
 ## Subfolder Structure
