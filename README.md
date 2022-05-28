@@ -152,8 +152,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 If any concerns, you can contact Dilapsky Xiahan LI: Dilapsky@gmail.com
 
-* [Linkedin](https://www.linkedin.com/in/xiahan-li-913423154/)
-
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
