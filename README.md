@@ -21,7 +21,7 @@
 
 <!-- PROJECT LOGO -->
 <br />
-<div align="center">
+<div align="left">
   <a href="https://github.com/Dilapsky/Position_feedback_system_and_method_based_on_FDM_formula_3D_printers">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
@@ -92,23 +92,23 @@ We believe that, the disclosure of this innovative invention, will make a small 
 <p align="left">
 <br />
 Repo    |--SJTU Final Thesis of university students' Innovative Practice Program(Chinese).pdf (Final University Thesis of the project)<br />
-        |<br />
-	|<br />
-	|--SJTU Final Defense of university students' Innovative Practice Program(English).pdf (Final University Presentation of the project)<br />
-	|<br />
-	|--Sample_Movie_during_trail.MOV (A video shown the operation of the project, during trail stage)<br />
-	|<br />
-	|--Patent_Right_Termination_information(Chinese).pdf (Proof of Patent Right Termination)<br />
-	|<br />
-	|--marlin_main_complete (Code folder)<br />
-	|<br />
-	|--3D_models_and_Pictures (Folders of 3D models and Pictures)<br />
-	|<br />
-	|--images (Folder of Readme images)<br />
-	|<br />
-	|--Readme.md (Readme file)<br />
-	|<br />
-	|--LICENSE.txt (License File)<br />
+&nbsp;        |<br />
+&nbsp;	|<br />
+&nbsp;	|--SJTU Final Defense of university students' Innovative Practice Program(English).pdf (Final University Presentation of the project)<br />
+&nbsp;	|<br />
+&nbsp;	|--Sample_Movie_during_trail.MOV (A video shown the operation of the project, during trail stage)<br />
+&nbsp;	|<br />
+&nbsp;	|--Patent_Right_Termination_information(Chinese).pdf (Proof of Patent Right Termination)<br />
+&nbsp;	|<br />
+&nbsp;	|--marlin_main_complete (Code folder)<br />
+&nbsp;	|<br />
+&nbsp;	|--3D_models_and_Pictures (Folders of 3D models and Pictures)<br />
+&nbsp;	|<br />
+&nbsp;	|--images (Folder of Readme images)<br />
+&nbsp;	|<br />
+&nbsp;	|--Readme.md (Readme file)<br />
+&nbsp;	|<br />
+&nbsp;	|--LICENSE.txt (License File)<br />
 </p>
 	
 ## Subfolder Structure
