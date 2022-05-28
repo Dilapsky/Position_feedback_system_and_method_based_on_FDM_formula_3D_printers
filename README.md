@@ -133,7 +133,7 @@ Repo<br />
 					  |<br />
 					  |--Assembly_Drawing (Pictures that show the assemble process of the parts)<br />
 					  |<br />
-					  |--Real_Photos (Photos of the Acture Machine)<br />
+					  |--Real_Photos (Photos of the Actual Machine)<br />
 </p>
 
 <!-- LICENSE -->
