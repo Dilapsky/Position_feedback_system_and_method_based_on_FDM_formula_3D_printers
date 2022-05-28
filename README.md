@@ -57,7 +57,7 @@
 <p align="left">
 This research base on the open-loop controlled 3D Printers, introduce the closed-loop controlled system and continued printing after outage system into them by adding the position feedback system whose main parts are encoders, thus enhance the accuracy and stability of 3D Printers. This project mainly researches from four aspects: Reprap3D Printer, encoder, attempt of transmitting data between circuit boards, control algorithm and achievement, effects of position feedback and effects of continued printing after outage, using the methods of program logic analysis, mechanical structure analysis, transmission of signal analysis and so on, successfully achieve the position feedback system and continued printing after outage system whose main parts are encoders at last, and successfully detects and modified the step out of step motor by using this system, and solve the repeated printing problem in the continued printing problem, enhancing the accuracy and stability of 3D Printers. Comparing with the existing achievement, this position feedback system tremendously reduces the cost of feedback system, and enhances the lifetime of feedback system, thus making the close-loop controlled 3D Printers have a better market prospect.  <br />
 	<br />
-__Keywords__ : 3D Printers, position feedback, encoders, transmission of data.  
+
 </p>
 <p align="right">(<a href="#top">back to top</a>)</p>
 	
@@ -107,7 +107,7 @@ Repo<br />
 |<br />
 |--SJTU Final Defense of university students' Innovative Practice Program(English).pdf (Final University Presentation of the project)<br />
 |<br />
-|--Sample_Movie_during_trail.MOV (A video shown the operation of the project, during trail stage)<br />
+|--Sample_Movie_during_trail.mp4 (A video shown the operation of the project, during trail stage)<br />
 |<br />
 |--Patent_Right_Termination_information(Chinese).pdf (Proof of Patent Right Termination)<br />
 |--<br />
@@ -117,9 +117,9 @@ Repo<br />
 |<br />
 |--images (Folder of Readme images)<br />
 |<br />
-|--Readme.md (Readme file)<br />
+|--README.md (Readme file)<br />
 |<br />
-|--LICENSE.txt (License File)<br />
+|--LICENSE (License File)<br />
 </p>
 	
 ## Subfolder Structure
