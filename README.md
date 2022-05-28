@@ -109,7 +109,7 @@ Repo<br />
 |<br />
 |--3D_models_and_Pictures (Folders of 3D models and Pictures)<br />
 |<br />
-|--images (Folder of Readme images)
+|--images (Folder of Readme images)<br />
 |<br />
 |--Readme.md (Readme file)<br />
 |<br />
@@ -118,21 +118,22 @@ Repo<br />
 	
 ## Subfolder Structure
 
-3D_models_and_Pictures --3D_models_by_Siemens-NX (Folders of 3D models that build from Siemens-NX)
-                      |
-					  |
-					  |--Parts_Drawing (Pictures that show the parts)
-					  |
-					  |--Assembly_Drawing (Pictures that show the assemble process of the parts)
-					  |
-					  |--Real_Photos (Photos of the Acture Machine)
+3D_models_and_Pictures<br />
+	|<br />
+	|--3D_models_by_Siemens-NX (Folders of 3D models that build from Siemens-NX)<br />
+                      |<br />
+					  |--Parts_Drawing (Pictures that show the parts)<br />
+					  |<br />
+					  |--Assembly_Drawing (Pictures that show the assemble process of the parts)<br />
+					  |<br />
+					  |--Real_Photos (Photos of the Acture Machine)<br />
 
 
 <!-- LICENSE -->
 	
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the MIT License. See `LICENSE` for more information.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -155,8 +156,9 @@ Project Link: [https://github.com/Dilapsky/Position_feedback_system_and_method_b
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
+<p align="left">
 We would like to thank University of Michigan-Shanghai Jiao Tong University Joint Institute(UMJI) for providing us with funds, and thank Mr. Jinsong Li from the Engineering Training Center for providing us with venues and equipment during the implementation of our project. Thanks to Yao Yue, Li Chunchao from UMJI, and Yu Xinsheng from the School of Materials Science, who helped us debug equipment, write codes, and provide ideas and technical support during the implementation of our project. We would like to thank Mr. Wang Yuli from Shanghai Jiaoda Patent Office for revising documents and acting as an agent for our patent application.
-
+</p>
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
