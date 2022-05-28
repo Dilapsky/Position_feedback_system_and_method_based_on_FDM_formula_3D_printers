@@ -55,12 +55,12 @@ This research base on the open-loop controlled 3D Printers, introduce the closed
 Keywords: 3D Printers, position feedback, encoders, transmission of data.  
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
+<p align="left">
 ## Project Background
 In 2017, we propose the project idea and apply the Shanghai Jiao Tong University annual Innovative Practice Program(IPP). Since we made some innovative breakthrough in the project. We applied the Chinese National Invention Patent in 2017, and our national invention patent application has been authorized by the relevant national departments in 2019. About 3 years later, on Feb. 2022, our patent right has been terminated because we stopped  paying the patent maintenance fee.<br /> 
 On May 2022, we decide to open all the technical details of the national invention patent No.CN107253326A to public by uploading the technical files to Github. <br />
 We believe that, the disclosure of this innovative invention, will make a small contribution to the scientific research field of 3D printing and automatic control all over the world.  <br />
-
+</p>
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
