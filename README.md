@@ -51,12 +51,13 @@
 ## Project Introduction
 
 [![Product Name Screen Shot][product-screenshot]]
+<p align="left">
 This research base on the open-loop controlled 3D Printers, introduce the closed-loop controlled system and continued printing after outage system into them by adding the position feedback system whose main parts are encoders, thus enhance the accuracy and stability of 3D Printers. This thesis mainly researches from four aspects: Reprap3D Printer, encoder, attempt of transmitting data between circuit boards, control algorithm and achievement, effects of position feedback and effects of continued printing after outage, using the methods of program logic analysis, mechanical structure analysis, transmission of signal analysis and so on, successfully achieve the position feedback system and continued printing after outage system whose main parts are encoders at last, and successfully detects and modified the step out of step motor by using this system, and solve the repeated printing problem in the continued printing problem, enhancing the accuracy and stability of 3D Printers. Comparing with the existing achievement, this position feedback system tremendously reduces the cost of feedback system, and enhances the lifetime of feedback system, thus making the close-loop controlled 3D Printers have a better market prospect.  <br />
 Keywords: 3D Printers, position feedback, encoders, transmission of data.  
-
+</p>
 <p align="right">(<a href="#top">back to top</a>)</p>
-<p align="left">
 ## Project Background
+<p align="left">
 In 2017, we propose the project idea and apply the Shanghai Jiao Tong University annual Innovative Practice Program(IPP). Since we made some innovative breakthrough in the project. We applied the Chinese National Invention Patent in 2017, and our national invention patent application has been authorized by the relevant national departments in 2019. About 3 years later, on Feb. 2022, our patent right has been terminated because we stopped  paying the patent maintenance fee.<br /> 
 On May 2022, we decide to open all the technical details of the national invention patent No.CN107253326A to public by uploading the technical files to Github. <br />
 We believe that, the disclosure of this innovative invention, will make a small contribution to the scientific research field of 3D printing and automatic control all over the world.  <br />
@@ -85,25 +86,25 @@ We believe that, the disclosure of this innovative invention, will make a small 
 
 <!-- GETTING STARTED -->
 ## Repo Structure
-
-Repo --SJTU Final Thesis of university students' Innovative Practice Program(Chinese).pdf (Final University Thesis of the project)
-    |
-	|
-	|--SJTU Final Defense of university students' Innovative Practice Program(English).pdf (Final University Presentation of the project)
-	|
-	|--Sample_Movie_during_trail.MOV (A video shown the operation of the project, during trail stage)
-	|
-	|--Patent_Right_Termination_information(Chinese).pdf (Proof of Patent Right Termination)
-	|
-	|--marlin_main_complete (Code folder)
-	|
-	|--3D_models_and_Pictures (Folders of 3D models and Pictures)
-	|
-	|--images (Folder of Readme images)
-	|
-	|--Readme.md (Readme file)
-	|
-	|--LICENSE.txt (License File)
+<br />
+Repo    |--SJTU Final Thesis of university students' Innovative Practice Program(Chinese).pdf (Final University Thesis of the project)<br />
+        |<br />
+	|<br />
+	|--SJTU Final Defense of university students' Innovative Practice Program(English).pdf (Final University Presentation of the project)<br />
+	|<br />
+	|--Sample_Movie_during_trail.MOV (A video shown the operation of the project, during trail stage)<br />
+	|<br />
+	|--Patent_Right_Termination_information(Chinese).pdf (Proof of Patent Right Termination)<br />
+	|<br />
+	|--marlin_main_complete (Code folder)<br />
+	|<br />
+	|--3D_models_and_Pictures (Folders of 3D models and Pictures)<br />
+	|<br />
+	|--images (Folder of Readme images)<br />
+	|<br />
+	|--Readme.md (Readme file)<br />
+	|<br />
+	|--LICENSE.txt (License File)<br />
 
 ## Subfolder Structure
 
@@ -129,8 +130,8 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Dilapsky Xiahan LI -Dilapsky@gmail.com
-* [Email](Dilapsky@gmail.com)
+If any concerns, you can contact Dilapsky Xiahan LI: Dilapsky@gmail.com
+
 * [Linkedin](https://www.linkedin.com/in/xiahan-li-913423154/)
 
 Project Link: [https://github.com/Dilapsky/Position_feedback_system_and_method_based_on_FDM_formula_3D_printers](https://github.com/Dilapsky/Position_feedback_system_and_method_based_on_FDM_formula_3D_printers)
