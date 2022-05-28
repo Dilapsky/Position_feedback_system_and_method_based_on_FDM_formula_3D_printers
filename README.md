@@ -21,7 +21,7 @@
 
 <!-- PROJECT LOGO -->
 <br />
-<div align="left">
+<div align="center">
   <a href="https://github.com/Dilapsky/Position_feedback_system_and_method_based_on_FDM_formula_3D_printers">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
@@ -95,24 +95,25 @@ We believe that, the disclosure of this innovative invention, will make a small 
 
 <p align="left">
 <br />
-Repo    |--SJTU Final Thesis of university students' Innovative Practice Program(Chinese).pdf (Final University Thesis of the project)<br />
-<pre>    </pre>|<br />
-<pre>    </pre>|<br />
-<pre>    </pre>|--SJTU Final Defense of university students' Innovative Practice Program(English).pdf (Final University Presentation of the project)<br />
-<pre>    </pre>|<br />
-<pre>    </pre>|--Sample_Movie_during_trail.MOV (A video shown the operation of the project, during trail stage)<br />
-<pre>    </pre>|<br />
-<pre>    </pre>|--Patent_Right_Termination_information(Chinese).pdf (Proof of Patent Right Termination)<br />
-<pre>    </pre>|--<br />
-<pre>    </pre>|--marlin_main_complete (Code folder)<br />
-<pre>    </pre>|<br />
-<pre>    </pre>|--3D_models_and_Pictures (Folders of 3D models and Pictures)<br />
-<pre>    </pre>|<br />
-<pre>    </pre>|--images (Folder of Readme images)
-<pre>    </pre>|<br />
-<pre>    </pre>|--Readme.md (Readme file)<br />
-<pre>    </pre>|<br />
-<pre>    </pre>|--LICENSE.txt (License File)<br />
+Repo<br />   
+|<br />
+|--SJTU Final Thesis of university students' Innovative Practice Program(Chinese).pdf (Final University Thesis of the project)<br />
+|<br />
+|--SJTU Final Defense of university students' Innovative Practice Program(English).pdf (Final University Presentation of the project)<br />
+|<br />
+|--Sample_Movie_during_trail.MOV (A video shown the operation of the project, during trail stage)<br />
+|<br />
+|--Patent_Right_Termination_information(Chinese).pdf (Proof of Patent Right Termination)<br />
+|--<br />
+|--marlin_main_complete (Code folder)<br />
+|<br />
+|--3D_models_and_Pictures (Folders of 3D models and Pictures)<br />
+|<br />
+|--images (Folder of Readme images)
+|<br />
+|--Readme.md (Readme file)<br />
+|<br />
+|--LICENSE.txt (License File)<br />
 </p>
 	
 ## Subfolder Structure
@@ -128,6 +129,7 @@ Repo    |--SJTU Final Thesis of university students' Innovative Practice Program
 
 
 <!-- LICENSE -->
+	
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
@@ -137,14 +139,15 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 
 <!-- CONTACT -->
+	
 ## Contact
 
 If any concerns, you can contact Dilapsky Xiahan LI: Dilapsky@gmail.com
 
 * [Linkedin](https://www.linkedin.com/in/xiahan-li-913423154/)
-
+<p align="left">
 Project Link: [https://github.com/Dilapsky/Position_feedback_system_and_method_based_on_FDM_formula_3D_printers](https://github.com/Dilapsky/Position_feedback_system_and_method_based_on_FDM_formula_3D_printers)
-
+</p>
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
